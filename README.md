@@ -24,4 +24,4 @@ Additional modeling and project updates will be added in the upcoming parts.
 
 ## Current Notebook
 
-[View the Part 1 Project Notebook](Car_Insurance_Claim_Prediction_Project_2.ipynb)
+[View the Part 1 Project Notebook](Car_Insurance_Claim_Prediction.ipynb)
